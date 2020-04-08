@@ -1,3 +1,5 @@
 print("hi")
 print("hello")
 print("welcome")
+print("hi krishnendu")
+print("go to")
